@@ -1,4 +1,4 @@
-# PG-University-System
+# PG-Console-Based-University-System
 ![IAUCTB Console Intro](https://raw.githubusercontent.com/IranShahI/PG-University-System/master/IAUCTB-STU-Console-Demo.jpg)
 
 | **Compiler** | **Status** |
