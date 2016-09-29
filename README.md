@@ -1,5 +1,5 @@
 # PG-University-System
-![IAUCTB Console](https://raw.githubusercontent.com/IranShahI/PG-University-System/master/IAUCTB-STU-Console-Demo.jpg)
+![IAUCTB Console Intro](https://raw.githubusercontent.com/IranShahI/PG-University-System/master/IAUCTB-STU-Console-Demo.jpg)
 
 | **Compiler** | **Status** |
 |---|---|
@@ -12,3 +12,7 @@
 
 A university management system written in C++ to runing under MS Dos operating system.
 This project had been asked by Mr Pourganji, Programming Instructor at IAUCTB.
+
+![IAUCTB Console Menu](https://raw.githubusercontent.com/IranShahI/PG-University-System/master/IAUCTB-STU-Console-Demo-1.jpg)
+
+
